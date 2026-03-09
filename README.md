@@ -1,2 +1,2 @@
 # KokoroNashi
-Port VOICEROID2 voices to AIVoice
+A tool to port VOICEROID2 voices to AIVoice.
